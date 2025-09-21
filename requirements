@@ -1,0 +1,8 @@
+ streamlit
+ pandas
+ cv2
+ opencv-python
+ numpy
+ PIL
+ openpyxl
+ io
